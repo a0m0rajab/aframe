@@ -59,6 +59,7 @@ files are properly served. Options of local servers include:
   in the same directory as your HTML file.
 - Running `python -m SimpleHTTPServer` (or `python -m http.server` for Python 3)
   in a terminal in the same directory as your HTML file.
+- If you are using VScode, you can use the [Live Server Plugin](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
 
 Once we are running our server, we can open our project in the browser using
 the local URL and port which the server is running on (e.g.,
